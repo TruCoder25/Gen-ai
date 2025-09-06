@@ -1,0 +1,17 @@
+{
+  "name": "invoke",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tavily/core": "^0.5.11",
+    "groq-sdk": "^0.31.0"
+  }
+}
